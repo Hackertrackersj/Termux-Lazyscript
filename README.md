@@ -5,7 +5,7 @@ This tool is specially Designed for Termux Beginner users.This tool is very help
 
 [+] Author :-
 
-Name : Hacker Tracker with Nitro:https: http://m.youtube.com/channel/UCtnanZVn64mqgUo65zz-OVQ :
+Name : Hacker Tracker with Nitro:https: https://www.youtube.com/channel/UCtnanZVn64mqgUo65zz-OVQ
 
 [+] Installation :-
 
