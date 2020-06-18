@@ -11,10 +11,10 @@ Name : Hacker Tracker with Nitro:https: https://www.youtube.com/channel/UCtnanZV
 
 apt update && apt upgrade
 apt install git   
-a
-git clone https://github.com/Hackertrackersj/Termux-Lazyscript
-cd Termux-Lazyscript
-chmod +x *
+
+git clone https://github.com/Hackertrackersj/Termux-Lazyscript <br>
+cd Termux-Lazyscript <br>
+chmod +x * <br>
 sh setup.sh
 [+] usage :-
 
