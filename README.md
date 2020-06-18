@@ -9,7 +9,7 @@ Name : Hacker Tracker with Nitro:https: https://www.youtube.com/channel/UCtnanZV
 
 [+] Installation :-
 
-apt update && apt upgrade
+apt update && apt upgrade <br>
 apt install git   
 
 git clone https://github.com/Hackertrackersj/Termux-Lazyscript <br>
